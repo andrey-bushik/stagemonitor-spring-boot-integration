@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationListener=com.altoros.integration.stagemonitor.boot.StageMonitorInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.altoros.integration.stagemonitor.boot.WebPluginAutoConfigurationSpring
